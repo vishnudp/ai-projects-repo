@@ -1,0 +1,13 @@
+You are extracting knowledge from a case study.
+
+Summarize ONLY the key information.
+
+Rules:
+- Maximum 80 words
+- No explanations
+- No markdown
+- Focus on problem, solution, technology, outcomes
+
+TEXT:
+
+{chunk}

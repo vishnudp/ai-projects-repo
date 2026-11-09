@@ -1,0 +1,140 @@
+AI Case Study Intelligence Engine
+Upload one or more case studies and generate:
+
+Chunk Summaries
+Document Summaries
+Repository Knowledge Base
+Case Study Comparison
+Best Practices
+Success Rate Analysis
+Cost Reduction Analysis
+Upload Case Studies
+
+2 files
+RF-WATS..._sized.pdf
+5.2MB
+urban_s...gation.pdf
+1.5MB
+Processing: RF-WATSAN_reduced_sized.pdf
+Text extraction completed
+
+Characters Extracted: 171,235
+
+Using 30,000 characters for analysis
+
+Total Chunks: 2
+
+2 chunk summaries generated
+
+Chunk Summary Time: 0.0 sec
+
+View Chunk Summaries
+
+Document Summary Generated
+
+Document Summary Time: 0.0 sec
+
+Document Summary
+{
+"title":"India's Urban Water and Sanitation Crisis"
+"domain":"Water and Sanitation"
+"background":"India faces severe urban water and sanitation crises causing 25% of global diarrheal deaths and 6.4% GDP loss. Critical infrastructure includes water distribution systems and sanitation facilities."
+"problem":"Indian urban centers lack adequate wastewater treatment, causing groundwater contamination and coastal pollution. Water scarcity worsens with declining per capita renewable freshwater (from 5,177 to 1,588 m³ since 1951). Supply falls short (69 vs 135 lpcd), with intermittent access (2–3 hours). Untreated sewage remains the largest land-based pollution source for coastal areas."
+"solution":"Swachh Bharat Mission and JNNURM"
+"technology_used":[
+0:"Swachh Bharat Mission"
+1:"JNNURM"
+]
+"success_rate":"Not specified"
+"cost_reduction":"Not specified"
+"department":"Ministry of Drinking Water and Sanitation"
+"competencies_required":[
+0:"Water resource management"
+1:"Sanitation infrastructure planning"
+2:"Wastewater treatment systems design"
+]
+"key_outcomes":[
+0:"Reduction in diarrheal deaths (25% of global)"
+1:"Economic impact reduction (6.4% GDP loss)"
+2:"Poorest households suffer 1.75x national economic impact from inadequate sanitation"
+]
+"lessons_learned":[
+0:"Inadequate wastewater treatment leads to groundwater and coastal pollution"
+1:"Water scarcity worsens due to declining per capita renewable freshwater"
+2:"Intermittent water access (2-3 hours) affects urban households"
+]
+}
+Repository Save Error: Expecting value: line 1 column 1 (char 0)
+
+Total Processing Time: 1.62 sec
+
+Processing: urban_sanitigation.pdf
+Text extraction completed
+
+Characters Extracted: 109,833
+
+Using 30,000 characters for analysis
+
+Total Chunks: 2
+
+2 chunk summaries generated
+
+Chunk Summary Time: 0.0 sec
+
+View Chunk Summaries
+
+Document Summary Generated
+
+Document Summary Time: 0.0 sec
+
+Document Summary
+{
+"title":"Sustainable City Building Programme (SCBP) for Decentralized Sanitation in Indian Cities"
+"domain":"Urban Development and Sanitation"
+"background":"Indian cities, especially rapidly growing urban areas and peripheries, face significant challenges with inadequate urban sanitation systems. Traditional centralized systems are often unviable in these areas, necessitating decentralized (non-networked) sanitation solutions to ensure sustainable and equitable access to sanitation services."
+"problem":"Inadequate urban sanitation systems in Indian cities, particularly in rapidly growing urban areas and peripheries, requiring decentralized (non-networked) sanitation solutions."
+"solution":"The Sustainable City Building Programme (SCBP) engages academic institutions through a structured program that integrates non-networked sanitation into curricula, research, and training. This includes Round Table meetings, faculty training workshops, and Memoranda of Understanding (MOUs) with universities. Additionally, SCBP develops modular educational content, workshops, and research projects to foster interdisciplinary approaches to decentralized sanitation systems."
+"technology_used":[
+0:"Non-networked sanitation systems"
+1:"Participant Kit (modular educational toolkit for water and sanitation)"
+]
+"success_rate":"Not specified in the input"
+"cost_reduction":"Not specified in the input"
+"department":"Academic Institutions and Urban Development Authorities"
+"competencies_required":[
+0:"Knowledge of non-networked sanitation systems"
+1:"Skills in designing decentralized sanitation solutions"
+2:"Interdisciplinary collaboration for urban development"
+3:"Community engagement and participatory approaches"
+]
+"key_outcomes":[
+0:"9 universities signed MOUs with SCBP by March 2019"
+1:"Training of over 500 students and professionals"
+2:"Initiation of state-level workshops in Odisha, Andhra Pradesh, Maharashtra, and Tamil Nadu"
+3:"Facilitation of collaborative problem-solving at CEPT University through sandpit activities and distribution of certificates"
+]
+"lessons_learned":[
+0:"The critical role of academic-industry partnerships in scaling decentralized sanitation solutions"
+1:"The need for modular and adaptable educational tools to address diverse urban contexts"
+]
+}
+Repository Save Error: Expecting value: line 1 column 1 (char 0)
+
+Total Processing Time: 0.7 sec
+
+Case Study Comparison
+{
+"best_case":"Sustainable City Building Programme (SCBP) for Decentralized Sanitation in Indian Cities"
+"reason":"SCBP demonstrates tangible, measurable outcomes (e.g., 9 universities signed MOUs, training of over 500 professionals) and focuses on sustainable, scalable solutions through academic-industry partnerships. In contrast, the first case addresses a systemic crisis with limited detailed success metrics and requires long-term, large-scale infrastructure implementation."
+"success_rate_ranking":[
+0:"Sustainable City Building Programme (SCBP) for Decentralized Sanitation in Indian Cities"
+1:"India's Urban Water and Sanitation Crisis"
+]
+"cost_reduction_ranking":[
+0:"India's Urban Water and Sanitation Crisis"
+1:"Sustainable City Building Programme (SCBP) for Decentralized Sanitation in Indian Cities"
+]
+"technology_comparison":[
+0:"Case 1: Swachh Bharat Mission and JNNURM (government-led infrastructure programs for large-scale water/sanitation); Case 2: Non-networked sanitation systems and Participant Kit (academic tools for modular, community-driven capacity building)"
+]
+}

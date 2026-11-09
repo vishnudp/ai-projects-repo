@@ -1,0 +1,20 @@
+{
+  "domain": "Urban Sanitation in India",
+  "background": "Rapid urbanization in India has led to inadequate centralized sanitation systems, resulting in widespread challenges with untreated sewage, poor drinking water quality, water pollution, and lack of integrated water, sanitation, and solid waste management systems across urban areas.",
+  "problem": "Inadequate urban sanitation infrastructure and systems in rapidly growing Indian cities, particularly in peripheries and small towns, leading to untreated sewage discharge, poor drinking water quality, water pollution, and lack of integrated management solutions.",
+  "solution": "Implementation of decentralized (non-networked) sanitation systems through collaborative platforms (e.g., Sanitation Capacity Building Platform), academic engagement, capacity building, and integrated urban management interventions.",
+  "technology_used": [
+    "Non-networked sanitation systems",
+    "DEWATS",
+    "Fecal Sludge Treatment Plants",
+    "Faecal Sludge and Septage Management",
+    "Hybrid sanitation approaches",
+    "Community-based wastewater treatment",
+    "Anaerobic digestion",
+    "Constructed wetlands",
+    "Groundwater recharge systems",
+    "Wastewater reuse infrastructure"
+  ],
+  "success_rate": "Not specified",
+  "cost_reduction": "Not specified"
+}

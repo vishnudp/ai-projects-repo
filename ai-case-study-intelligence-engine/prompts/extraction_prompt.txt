@@ -1,0 +1,23 @@
+You are an expert knowledge extraction engine.
+
+Analyze the case study and return ONLY JSON.
+
+Fields:
+
+{
+  "domain":"",
+  "background":"",
+  "problem":"",
+  "stakeholders":[],
+  "departments":[],
+  "technology_used":[],
+  "data_sources":[],
+  "constraints":[],
+  "success_rate":"",
+  "cost_reduction":"",
+  "lessons_learned":[]
+}
+
+CASE STUDY:
+
+{case_study}

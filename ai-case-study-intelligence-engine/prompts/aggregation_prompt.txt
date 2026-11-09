@@ -1,0 +1,16 @@
+Analyze all summaries.
+
+Return JSON only.
+
+{
+  "top_problems":[],
+  "top_technologies":[],
+  "top_departments":[],
+  "avg_success_rate":"",
+  "avg_cost_reduction":"",
+  "key_success_factors":[]
+}
+
+SUMMARIES:
+
+{summaries}

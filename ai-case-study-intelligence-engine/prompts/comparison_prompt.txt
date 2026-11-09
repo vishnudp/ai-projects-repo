@@ -1,0 +1,17 @@
+Compare these case studies.
+
+Return VALID JSON ONLY.
+
+{
+  "best_case":"",
+  "reason":"",
+  "success_rate_ranking":[],
+  "cost_reduction_ranking":[],
+  "technology_comparison":[],
+  "best_practices":[],
+  "recommended_model_case":""
+}
+
+INPUT:
+
+{cases}

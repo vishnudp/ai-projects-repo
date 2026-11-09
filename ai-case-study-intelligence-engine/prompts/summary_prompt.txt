@@ -1,0 +1,15 @@
+Generate a concise business summary.
+
+Return JSON only.
+
+{
+ "problem_summary":"",
+ "solution_summary":"",
+ "outcome_summary":"",
+ "technology_summary":"",
+ "stakeholder_summary":""
+}
+
+INPUT:
+
+{case_json}

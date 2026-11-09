@@ -1,0 +1,22 @@
+Create a structured case profile.
+
+Return VALID JSON ONLY.
+
+{
+  "title":"",
+  "domain":"",
+  "background":"",
+  "problem":"",
+  "solution":"",
+  "technology_used":[],
+  "success_rate":"",
+  "cost_reduction":"",
+  "department":"",
+  "competencies_required":[],
+  "key_outcomes":[],
+  "lessons_learned":[]
+}
+
+INPUT:
+
+{summaries}

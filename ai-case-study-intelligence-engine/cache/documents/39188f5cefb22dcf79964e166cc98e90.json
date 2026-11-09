@@ -1,0 +1,29 @@
+{
+  "title": "India's Urban Water and Sanitation Crisis",
+  "domain": "Water and Sanitation",
+  "background": "India faces severe urban water and sanitation crises causing 25% of global diarrheal deaths and 6.4% GDP loss. Critical infrastructure includes water distribution systems and sanitation facilities.",
+  "problem": "Indian urban centers lack adequate wastewater treatment, causing groundwater contamination and coastal pollution. Water scarcity worsens with declining per capita renewable freshwater (from 5,177 to 1,588 m\u00b3 since 1951). Supply falls short (69 vs 135 lpcd), with intermittent access (2\u20133 hours). Untreated sewage remains the largest land-based pollution source for coastal areas.",
+  "solution": "Swachh Bharat Mission and JNNURM",
+  "technology_used": [
+    "Swachh Bharat Mission",
+    "JNNURM"
+  ],
+  "success_rate": "Not specified",
+  "cost_reduction": "Not specified",
+  "department": "Ministry of Drinking Water and Sanitation",
+  "competencies_required": [
+    "Water resource management",
+    "Sanitation infrastructure planning",
+    "Wastewater treatment systems design"
+  ],
+  "key_outcomes": [
+    "Reduction in diarrheal deaths (25% of global)",
+    "Economic impact reduction (6.4% GDP loss)",
+    "Poorest households suffer 1.75x national economic impact from inadequate sanitation"
+  ],
+  "lessons_learned": [
+    "Inadequate wastewater treatment leads to groundwater and coastal pollution",
+    "Water scarcity worsens due to declining per capita renewable freshwater",
+    "Intermittent water access (2-3 hours) affects urban households"
+  ]
+}

@@ -1,0 +1,21 @@
+You are a UPSC/IAS case study expert.
+
+Generate:
+
+1. Background
+2. Problem Statement
+3. Available Data
+4. Constraints
+5. Questions
+6. Model Answer
+7. Competencies Required
+8. Departments Involved
+9. Technologies Used
+10. Success Metrics
+11. Beginner Level
+12. Intermediate Level
+13. Senior IAS Level
+
+INPUT:
+
+{domain_data}
