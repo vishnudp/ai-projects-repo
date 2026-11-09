@@ -1,0 +1,366 @@
+{
+  "chunk_number": 3,
+  "hook": {
+    "hook": "This Changes Everything About India's Future.",
+    "pattern": "curiosity",
+    "strength": 70
+  },
+  "insight": {
+    "title": "India's Future Development and Global Position: A Documentary Perspective",
+    "overview": "This documentary explores India's potential as a global economic power through its demographic advantages, technological innovation, and strategic positioning in the evolving global economy. It highlights both opportunities and challenges that could determine India's trajectory in the 21st century.",
+    "key_ideas": [
+      "Young and large population with strong STEM education",
+      "India's growing startup ecosystem and 100+ unicorns",
+      "Global diaspora influence with over 20 million Indians worldwide",
+      "Climate change as a critical challenge",
+      "Technological advancements driving future opportunities",
+      "Need for logistics and manufacturing R&D improvements",
+      "High dependency on imported oil (88%)"
+    ],
+    "key_insights": [
+      "India's demographic dividend and technological readiness position it as a key player in future global economic shifts",
+      "Climate change impacts require urgent action to avoid exacerbating existing inequalities",
+      "The global shift of economic center from West to East creates opportunities for India to leverage its strategic location and resources",
+      "India's diaspora network provides significant influence in global politics and economic decision-making"
+    ],
+    "important_numbers": [
+      "100 unicorns",
+      "88% oil import dependency",
+      "3.5 lakh stakeholders consulted",
+      "1.1 million young college students"
+    ],
+    "important_quotes": [
+      "We had started a consultation process with university students.",
+      "our goal is not to bring change in India compared to the India of the past. We are actually trying to make India the best in the world."
+    ],
+    "learning_outcome": "Students will understand India's strategic advantages in the global economy, the critical challenges it faces, and the actionable steps needed to leverage its demographic and technological strengths for sustainable development.",
+    "topic": "",
+    "summary": "",
+    "facts": [],
+    "numbers": [],
+    "quotes": []
+  },
+  "cta": {
+    "cta": "Join the movement to shape India's future! Tap to share this summary with your network and help drive real change. Your voice matters.",
+    "type": "share",
+    "topic": "",
+    "summary": "",
+    "key_ideas": [],
+    "facts": [],
+    "numbers": [],
+    "quotes": []
+  },
+  "thumbnail": {
+    "thumbnail_prompt": "A cinematic ultra-realistic documentary scene showing a diverse group of young Indian students in a modern tech hub, with a subtle background of rising sun over the Indian subcontinent and a glowing data stream representing global economic shifts, dramatic lighting highlighting the students' expressions of determination, 4k detail, Netflix documentary style, ultra-realistic textures, shallow depth of field, vibrant yet muted color palette, high contrast shadows, cinematic composition",
+    "topic": "",
+    "summary": "",
+    "key_ideas": [],
+    "facts": [],
+    "numbers": [],
+    "quotes": []
+  },
+  "broll": {
+    "broll": [
+      {
+        "scene": "Urban India",
+        "visual": "Diverse urban landscapes with bustling street markets, modern tech hubs, and traditional crafts blending in vibrant cityscapes",
+        "search_keywords": [
+          "urban India",
+          "bustling markets",
+          "tech hubs",
+          "traditional crafts"
+        ]
+      },
+      {
+        "scene": "Startup Ecosystem",
+        "visual": "Quick cuts of startup founders brainstorming in co-working spaces, early-stage tech products being tested, and investors meeting in high-tech offices",
+        "search_keywords": [
+          "startup ecosystem",
+          "co-working spaces",
+          "tech products",
+          "investors"
+        ]
+      },
+      {
+        "scene": "Diaspora Influence",
+        "visual": "Global Indian diaspora members collaborating across continents via video calls, participating in international conferences, and supporting home country initiatives",
+        "search_keywords": [
+          "global diaspora",
+          "video calls",
+          "international conferences",
+          "home country initiatives"
+        ]
+      },
+      {
+        "scene": "Climate Challenges",
+        "visual": "Close-ups of climate change impacts: flooded cities, drought-stricken farmlands, and communities adapting to rising temperatures",
+        "search_keywords": [
+          "climate change",
+          "flooded cities",
+          "drought",
+          "rising temperatures"
+        ]
+      },
+      {
+        "scene": "Technological Advancements",
+        "visual": "Innovative tech demonstrations: AI-driven solutions, renewable energy projects, and cutting-edge research labs",
+        "search_keywords": [
+          "AI solutions",
+          "renewable energy",
+          "research labs"
+        ]
+      },
+      {
+        "scene": "Logistics and Manufacturing",
+        "visual": "Efficient supply chain networks, modern manufacturing facilities, and R&D centers focused on logistics optimization",
+        "search_keywords": [
+          "supply chain networks",
+          "manufacturing facilities",
+          "logistics optimization"
+        ]
+      },
+      {
+        "scene": "Oil Dependency",
+        "visual": "Visuals of oil tankers loading at ports, pipelines transporting crude oil, and alternative energy solutions being developed",
+        "search_keywords": [
+          "oil tankers",
+          "pipelines",
+          "alternative energy"
+        ]
+      }
+    ],
+    "topic": "",
+    "summary": "",
+    "key_ideas": [],
+    "facts": [],
+    "numbers": [],
+    "quotes": []
+  },
+  "storyboard": {
+    "scenes": [
+      {
+        "scene_no": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "India's Future Development and Global Position: A Documentary Perspective",
+        "visual": "Close-up of a hand writing 'This Changes Everything About India's Future' on a whiteboard with vibrant Indian flags and digital screens in the background",
+        "voiceover": "This changes everything about India's future.",
+        "title": "Urban India",
+        "key_idea": "Young and large population with strong STEM education",
+        "key_insight": "This documentary explores India's potential as a global economic power through its demographic advantages, technological innovation, and strategic positioning in the evolving global economy. It highlights both opportunities and challenges that could determine India's trajectory in the 21st century.",
+        "important_number": "100 unicorns",
+        "important_quote": "our goal is not to bring change in India compared to the India of the past. We are actually trying to make India the best in the world.",
+        "learning_outcome": "Students will understand India's strategic advantages in the global economy, the critical challenges it faces, and the actionable steps needed to leverage its demographic and technological strengths for sustainable development.",
+        "search_keywords": [
+          "urban India",
+          "bustling markets",
+          "tech hubs",
+          "traditional crafts"
+        ]
+      },
+      {
+        "scene_no": 2,
+        "start": 5,
+        "end": 10,
+        "purpose": "Startup Ecosystem",
+        "visual": "Split screen: Left side shows crowded streets with pollution, right side shows children studying in underfunded schools",
+        "voiceover": "But right now, India's future is being shaped by outdated systems and inequality.",
+        "title": "Startup Ecosystem",
+        "key_idea": "India's growing startup ecosystem and 100+ unicorns",
+        "key_insight": "India's demographic dividend and technological readiness position it as a key player in future global economic shifts",
+        "important_number": "100 unicorns",
+        "important_quote": "We had started a consultation process with university students.",
+        "learning_outcome": "Students will understand India's strategic advantages in the global economy, the critical challenges it faces, and the actionable steps needed to leverage its demographic and technological strengths for sustainable development.",
+        "search_keywords": [
+          "startup ecosystem",
+          "co-working spaces",
+          "tech products",
+          "investors"
+        ]
+      },
+      {
+        "scene_no": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "Diaspora Influence",
+        "visual": "A young Indian woman in a modern office setting, holding a tablet with data visualizations showing AI-driven solutions for education and healthcare",
+        "voiceover": "The solution? AI-powered platforms that can bridge gaps in education and healthcare.",
+        "title": "Diaspora Influence",
+        "key_idea": "Global diaspora influence with over 20 million Indians worldwide",
+        "key_insight": "India's diaspora network provides significant influence in global politics and economic decision-making",
+        "important_number": "20 Million",
+        "important_quote": "We had started a consultation process with university students.",
+        "learning_outcome": "Students will understand India's strategic advantages in the global economy, the critical challenges it faces, and the actionable steps needed to leverage its demographic and technological strengths for sustainable development.",
+        "search_keywords": [
+          "global diaspora",
+          "video calls",
+          "international conferences",
+          "home country initiatives"
+        ]
+      },
+      {
+        "scene_no": 4,
+        "start": 15,
+        "end": 20,
+        "purpose": "Climate Challenges",
+        "visual": "Quick cuts: A rural school child using a tablet, a doctor in a village clinic using an AI tool, a farmer receiving real-time market prices via mobile",
+        "voiceover": "Imagine AI bringing education to remote villages, healthcare to rural clinics, and fair markets to farmers.",
+        "title": "Climate Challenges",
+        "key_idea": "Climate change as a critical challenge",
+        "key_insight": "Climate change impacts require urgent action to avoid exacerbating existing inequalities",
+        "important_number": "Whole World",
+        "important_quote": "We had started a consultation process with university students.",
+        "learning_outcome": "our goal is not to bring change in India compared to the India of the past. We are actually trying to make India the best in the world.",
+        "search_keywords": [
+          "climate change",
+          "flooded cities",
+          "drought",
+          "rising temperatures"
+        ]
+        
+
+      },
+      {
+        "scene_no": 5,
+        "start": 20,
+        "end": 25,
+        "purpose": "Technological Advancements",
+        "visual": "Diverse group of Indians (all ages) using their phones to share a simple app interface showing community impact metrics",
+        "voiceover": "When communities unite through technology, change becomes possible.",
+        "title": "Technological Advancements",
+        "key_idea": "Technological advancements driving future opportunities",
+        "key_insight": "India's demographic dividend and technological readiness position it as a key player in future global economic shifts",
+        "important_number": "1.1 million young college students",
+        "important_quote": "We had started a consultation process with university students.",
+        "learning_outcome": "our goal is not to bring change in India compared to the India of the past. We are actually trying to make India the best in the world.",
+         "search_keywords": [
+          "AI solutions",
+          "renewable energy",
+          "research labs"
+        ]
+      },
+      {
+        "scene_no": 6,
+        "start": 25,
+        "end": 30,
+        "purpose": "Logistics and Manufacturing",
+        "visual": "Text overlay: 'Join the movement to shape India's future!' with a simple app icon and social media handles",
+        "voiceover": "Join the movement to shape India's future!",
+        "title": "Logistics and Manufacturing",
+        "key_idea": "Need for logistics and manufacturing R&D improvements",
+        "key_insight": "The global shift of economic center from West to East creates opportunities for India to leverage its strategic location and resources",
+        "important_number": "1.1",
+        "important_quote": "We had started a consultation process with university students.",
+        "learning_outcome": "our goal is not to bring change in India compared to the India of the past. We are actually trying to make India the best in the world.",
+        "search_keywords": [
+          "supply chain networks",
+          "manufacturing facilities",
+          "logistics optimization"
+        ]
+      },
+      {
+        "scene_no": 7,
+        "start": 30,
+        "end": 35,
+        "purpose": "Oil Dependency",
+        "visual": "Quick cuts of real users: A student smiling, a farmer checking his phone, a doctor nodding, with their names and locations",
+        "voiceover": "Over 1 million Indians are already using this movement to drive change.",
+        "title": "Oil Dependency",
+        "key_idea": "High dependency on imported oil (88%)",
+        "key_insight": "India's demographic dividend and technological readiness position it as a key player in future global economic shifts",
+        "important_number": "88% oil import dependency",
+        "important_quote": "We had started a consultation process with university students.",
+        "learning_outcome": "our goal is not to bring change in India compared to the India of the past. We are actually trying to make India the best in the world.",
+        "search_keywords": [
+          "oil tankers",
+          "pipelines",
+          "alternative energy"
+        ]
+      },
+      {
+        "scene_no": 8,
+        "start": 35,
+        "end": 45,
+        "purpose": "Final CTA with urgency",
+        "visual": "Split screen: Left side shows the current problem (pollution, inequality), right side shows the future (clean cities, thriving communities), with a call-to-action button",
+        "voiceover": "Your voice matters. Tap to share this summary with your network and help drive real change."
+      }
+    ],
+    "topic": "",
+    "summary": "",
+    "key_ideas": [],
+    "facts": [],
+    "numbers": [],
+    "quotes": []
+  },
+  "visual_plan": {
+    "visual_plan": [
+      {
+        "scene": 1,
+        "camera": "Extreme close-up on the hand writing the phrase",
+        "transition": "Smooth zoom from the hand to the whiteboard",
+        "motion": "Hand writing motion with slight tremor for authenticity",
+        "effects": "Vibrant Indian flag colors and digital screens with subtle glitch effects"
+      },
+      {
+        "scene": 2,
+        "camera": "Split screen with two distinct camera angles",
+        "transition": "Quick cut between the two sides of the split screen",
+        "motion": "Crowded streets with slow motion for pollution effects, children studying with focused expressions",
+        "effects": "Pollution particles and underfunded school visuals with desaturated colors"
+      },
+      {
+        "scene": 3,
+        "camera": "Medium shot from the side to show the woman in context",
+        "transition": "Fade from the previous scene to this scene",
+        "motion": "Woman confidently holding the tablet with data visualizations",
+        "effects": "Data visualizations with smooth animations and AI interface elements"
+      },
+      {
+        "scene": 4,
+        "camera": "Quick cuts with varying angles",
+        "transition": "Rapid cuts with a slight fade between each shot",
+        "motion": "Rural school child using tablet, doctor in clinic, farmer checking mobile",
+        "effects": "Real-time data overlays and subtle motion effects for each user interaction"
+      },
+      {
+        "scene": 5,
+        "camera": "Overhead shot of the diverse group",
+        "transition": "Smooth transition from the previous scene",
+        "motion": "Group members interacting with their phones to share the app interface",
+        "effects": "Community impact metrics with real-time updates and subtle animations"
+      },
+      {
+        "scene": 6,
+        "camera": "Static shot with text overlay",
+        "transition": "Fade to black after the text overlay",
+        "motion": "Text animation with a slight pulse effect",
+        "effects": "App icon with social media handles and subtle glow effect"
+      },
+      {
+        "scene": 7,
+        "camera": "Quick cuts with individual close-ups",
+        "transition": "Rapid cuts with a slight fade between each user",
+        "motion": "Users interacting with their phones showing real-time impact",
+        "effects": "Real user names and locations with subtle animations"
+      },
+      {
+        "scene": 8,
+        "camera": "Split screen with two distinct angles",
+        "transition": "Smooth transition from the previous scene",
+        "motion": "Current problem on left with slow motion, future on right with smooth animations",
+        "effects": "Split screen with clean lines, call-to-action button with subtle hover effects"
+      }
+    ],
+    "topic": "",
+    "summary": "",
+    "key_ideas": [],
+    "facts": [],
+    "numbers": [],
+    "quotes": []
+  },
+  "reel_score": {
+    "score": 100,
+    "grade": "A+"
+  }
+}

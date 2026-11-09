@@ -1,0 +1,6 @@
+{
+  "metadata": {},
+  "emotion": {},
+  "knowledge": {},
+  "learning": {}
+}

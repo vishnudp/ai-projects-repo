@@ -1,0 +1,14 @@
+You are an emotion classifier.
+
+Return ONLY JSON.
+
+{
+  "primary_emotion": "",
+  "secondary_emotion": "",
+  "confidence": 0,
+  "tone": ""
+}
+
+CONTENT:
+
+{content}

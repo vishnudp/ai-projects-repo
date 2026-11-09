@@ -1,0 +1,182 @@
+{
+  "chunk_number": 1,
+  "hook": {
+    "hook": "This Changes Everything About India's Future.",
+    "pattern": "curiosity",
+    "strength": 70
+  },
+  "storyboard": {
+    "scenes": [
+      {
+        "scene_no": 1,
+        "start": 0,
+        "end": 5,
+        "title": "Prime Minister's 75th Independence Day Speech",
+        "purpose": "Introduce the Developed India vision",
+        "key_idea": "Developed India became a national objective",
+        "key_insight": "The vision was announced during the 75th Independence Day speech.",
+        "important_number": "75",
+        "important_quote": "We should prepare for the next 25 years.",
+        "learning_outcome": "Understand where the Developed India vision originated.",
+        "voiceover": "This changes everything about India's future.",
+         "search_keywords": [
+          "75th Independence Day",
+          "2021 speech",
+          "Rashtrapati Bhavan",
+          "Indian flag",
+          "2021"
+        ]
+      },
+      {
+        "scene_no": 2,
+        "start": 5,
+        "end": 10,
+        "title": "NITI Aayog's Six-Month Initiative",
+        "purpose": "Explain how the roadmap was created",
+        "key_idea": "NITI Aayog coordinated the development blueprint",
+        "key_insight": "Multiple stakeholders contributed to a national development framework.",
+        "important_number": "6 Months",
+        "important_quote": "A large number of people were involved in giving input.",
+        "learning_outcome": "Learn how long-term national planning is executed.",
+        "voiceover": "India's strategic roadmap to become a developed nation by 2047 is no longer a dream.",
+        "search_keywords": [
+          "NITI Aayog",
+          "six-month initiative",
+          "digital dashboards",
+          "infrastructure metrics",
+          "poverty reduction"
+        ]
+      },
+      {
+        "scene_no": 3,
+        "start": 10,
+        "end": 15,
+        "title": "Infrastructure Expansion",
+        "purpose": "Show measurable progress",
+        "key_idea": "Infrastructure investment accelerated national growth",
+        "key_insight": "National highways expanded significantly across the country.",
+        "important_number": "60%",
+        "important_quote": "Infrastructure has transformed economic connectivity.",
+        "learning_outcome": "Understand the role of infrastructure in economic development.",
+        "voiceover": "From highways to logistics corridors, India is building the future.",
+        "search_keywords": [
+          "national highways",
+          "60% increase",
+          "8 years",
+          "infrastructure projects",
+          "aerial shots"
+        ]
+      },
+      {
+        "scene_no": 4,
+        "start": 15,
+        "end": 20,
+        "title": "Digital Transformation",
+        "purpose": "Highlight digital governance",
+        "key_idea": "Digital transformation became a core development pillar",
+        "key_insight": "India digitized citizen services at unprecedented scale.",
+        "important_number": "5x",
+        "important_quote": "Digital transformation changed how government works.",
+        "learning_outcome": "Understand the importance of digital public infrastructure.",
+        "voiceover": "Digital transformation is changing how India works.",
+        "search_keywords": [
+          "digital transformation",
+          "Aadhaar",
+          "UPI",
+          "government portals",
+          "citizen services"
+        ]
+      },
+      {
+        "scene_no": 5,
+        "start": 20,
+        "end": 25,
+        "title": "Poverty Reduction Programs",
+        "purpose": "Demonstrate social impact",
+        "key_idea": "Targeted welfare programs reduced poverty",
+        "key_insight": "PDS and MNREGA improved livelihoods at scale.",
+        "important_number": "30% → <5%",
+        "important_quote": "Poverty reduction requires focused social interventions.",
+        "learning_outcome": "Learn how welfare programs contribute to development.",
+        "voiceover": "Millions have moved out of poverty through focused intervention.",
+         "search_keywords": [
+          "PDS",
+          "MNREGA",
+          "poverty reduction",
+          "30% to 5%",
+          "targeted programs"
+        ]
+      },
+      {
+        "scene_no": 6,
+        "start": 25,
+        "end": 30,
+        "title": "25-Year Strategic Pathway",
+        "purpose": "Explain the long-term roadmap",
+        "key_idea": "A 25-year development journey is underway",
+        "key_insight": "India's transformation is being planned through 2047.",
+        "important_number": "2022-2047",
+        "important_quote": "The next 25 years will define India's future.",
+        "learning_outcome": "Understand the timeline behind Developed India.",
+        "voiceover": "The roadmap spans a transformational 25-year journey.",
+        "search_keywords": [
+          "25-year pathway",
+          "2022-2047",
+          "strategic milestones",
+          "infrastructure",
+          "digital transformation"
+        ]
+      },
+      {
+        "scene_no": 7,
+        "start": 30,
+        "end": 35,
+        "title": "Rapid Implementation of Social Schemes",
+        "purpose": "Show execution capability",
+        "key_idea": "Programs were implemented at speed and scale",
+        "key_insight": "Government delivery mechanisms improved significantly.",
+        "important_number": "250 Million",
+        "important_quote": "Basic services must reach everyone.",
+        "learning_outcome": "Learn how execution drives development outcomes.",
+        "voiceover": "India has demonstrated the ability to execute at scale.",
+        "search_keywords": [
+          "social schemes",
+          "rural implementation",
+          "urban services",
+          "basic services",
+          "rapid implementation"
+        ]
+      },
+      {
+        "scene_no": 8,
+        "start": 35,
+        "end": 45,
+        "title": "Future Vision",
+        "purpose": "Present the final destination",
+        "key_idea": "India aims to become a developed nation by 2047",
+        "key_insight": "Economic growth, infrastructure and inclusion will drive progress.",
+        "important_number": "2047",
+        "important_quote": "Developed India is not a dream—it is a mission.",
+        "learning_outcome": "Understand the end goal of the national vision.",
+        "voiceover": "By 2047, India aims to stand among the world's developed nations.",
+         "search_keywords": [
+          "futuristic cityscape",
+          "green energy",
+          "smart transportation",
+          "2047",
+          "developed nation"
+        ]
+      }
+    ],
+    "topic": "",
+    "summary": "",
+    "key_ideas": [],
+    "facts": [],
+    "numbers": [],
+    "quotes": []
+  },
+  "reel_score": {
+    "score": 100,
+    "grade": "A+"
+  }
+}

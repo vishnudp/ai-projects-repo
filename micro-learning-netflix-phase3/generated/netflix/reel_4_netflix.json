@@ -1,0 +1,208 @@
+{
+  "chunk_number": 4,
+  "hook": {
+    "hook": "This Changes Everything About India's Future.",
+    "pattern": "curiosity",
+    "strength": 70
+  },
+  "insight": {
+    "title": "India's Development Vision and Strategic Pathway",
+    "overview": "This learning summary outlines India's strategic roadmap to become a developed nation by 2047, emphasizing education, healthcare, economic growth, environmental sustainability, and citizen-centric governance. It integrates global best practices with India's unique demographic and economic strengths.",
+    "key_ideas": [
+      "South Korea's 80% college enrollment rate compared to the global 25% benchmark",
+      "Vision for developed India by 2047 based on global best practices",
+      "India's demographic dividend as a unique strength for global leadership",
+      "Cooperative federalism and environmental stewardship as core principles",
+      "Economic strategy targeting 3rd largest economy (projected) and 2nd largest (potential)",
+      "Citizen-centric governance with focus on safety, prosperity, and happiness",
+      "Population stabilization at 160-165 crore by 2047"
+    ],
+    "key_insights": [
+      "India's current TFR (2.08) is slightly above replacement level (2.1), but most states are below it, signaling population decline trends",
+      "Environmental care is prioritized as a fundamental responsibility across all sectors",
+      "India's economic strategy leverages its largest population and unique demographic dividend for global leadership",
+      "2047 is the critical target year for achieving developed nation status through coordinated implementation",
+      "Global partnerships and technology innovation are central to India's leap into the future"
+    ],
+    "important_numbers": [
+      "80%",
+      "25%",
+      "2047",
+      "1.8",
+      "2.08",
+      "2.1",
+      "160-165 crore",
+      "700 million",
+      "84"
+    ],
+    "important_quotes": [
+      "Fear of society and God, not fear of law, as motivators for morality",
+      "Living in the lap of nature and taking care of the environment",
+      "India aims to become a developed nation by 2047"
+    ],
+    "learning_outcome": "Participants will understand India's strategic pathway to becoming a developed nation by 2047, including key economic, demographic, and environmental considerations, and the role of citizen-centric governance in achieving sustainable development.",
+    "topic": "",
+    "summary": "",
+    "facts": [],
+    "numbers": [],
+    "quotes": []
+  },
+  "cta": {
+    "title": "India's Development Vision and Strategic Pathway",
+    "overview": "This learning summary outlines India's strategic roadmap to become a developed nation by 2047, emphasizing education, healthcare, economic growth, environmental sustainability, and citizen-centric governance. It integrates global best practices with India's unique demographic and economic strengths.",
+    "key_ideas": [
+      "South Korea's 80% college enrollment rate compared to the global 25% benchmark",
+      "Vision for developed India by 2047 based on global best practices",
+      "India's demographic dividend as a unique strength for global leadership",
+      "Cooperative federalism and environmental stewardship as core principles",
+      "Economic strategy targeting 3rd largest economy (projected) and 2nd largest (potential)",
+      "Citizen-centric governance with focus on safety, prosperity, and happiness",
+      "Population stabilization at 160-165 crore by 2047"
+    ],
+    "key_insights": [
+      "India's current TFR (2.08) is slightly above replacement level (2.1), but most states are below it, signaling population decline trends",
+      "Environmental care is prioritized as a fundamental responsibility across all sectors",
+      "India's economic strategy leverages its largest population and unique demographic dividend for global leadership",
+      "2047 is the critical target year for achieving developed nation status through coordinated implementation",
+      "Global partnerships and technology innovation are central to India's leap into the future"
+    ],
+    "important_numbers": [
+      "80%",
+      "25%",
+      "2047",
+      "1.8",
+      "2.08",
+      "2.1",
+      "160-165 crore",
+      "700 million",
+      "84"
+    ],
+    "important_quotes": [
+      "Fear of society and God, not fear of law, as motivators for morality",
+      "Living in the lap of nature and taking care of the environment",
+      "India aims to become a developed nation by 2047"
+    ],
+    "learning_outcome": "Participants will understand India's strategic pathway to becoming a developed nation by 2047, including key economic, demographic, and environmental considerations, and the role of citizen-centric governance in achieving sustainable development.",
+    "topic": "",
+    "summary": "",
+    "facts": [],
+    "numbers": [],
+    "quotes": []
+  },
+  "thumbnail": {
+    "thumbnail_prompt": "A cinematic ultra-realistic documentary scene depicting India's strategic pathway to developed nation status by 2047, with dramatic lighting highlighting a diverse group of people from various Indian states standing in a field of golden wheat, symbolizing the demographic dividend and economic growth, in the foreground, while a futuristic city skyline with green energy infrastructure and clean water systems in the background, showing the environmental stewardship and sustainable development, with a subtle overlay of the number '160-165 crore' and the year '2047' in bold, modern typography, 4k resolution, shallow depth of field, naturalistic lighting, vibrant colors, realistic textures, cinematic composition, ultra-realistic detail, dramatic contrast between the rural and urban scenes to emphasize the balance between population growth and sustainable development, shot on film, 8k cinematic quality",
+    "topic": "",
+    "summary": "",
+    "key_ideas": [],
+    "facts": [],
+    "numbers": [],
+    "quotes": []
+  },
+  "broll": {
+    "broll": [
+      {
+        "scene": "Urban landscape at dawn",
+        "visual": "Soft sunrise over Mumbai's skyline with the Arabian Sea in the background, reflecting the city's energy and transition into the day",
+        "search_keywords": [
+          "Mumbai sunrise",
+          "urban dawn",
+          "Arabian Sea reflection"
+        ]
+      },
+      {
+        "scene": "Educational institution",
+        "visual": "Students in diverse ethnic backgrounds studying in a modern classroom with digital learning tools, highlighting India's education focus",
+        "search_keywords": [
+          "Indian students",
+          "digital classrooms",
+          "education for all"
+        ]
+      },
+      {
+        "scene": "Healthcare facility",
+        "visual": "Mobile health clinics traveling through rural villages, staffed by trained professionals, emphasizing healthcare accessibility",
+        "search_keywords": [
+          "rural health clinics",
+          "mobile health units",
+          "India healthcare"
+        ]
+      },
+      {
+        "scene": "Economic growth",
+        "visual": "Dynamic data visualization showing India's GDP growth trajectory from 2023 to 2047, with projections for 3rd largest economy",
+        "search_keywords": [
+          "India GDP growth",
+          "2047 economic projection",
+          "global economy"
+        ]
+      },
+      {
+        "scene": "Environmental sustainability",
+        "visual": "Green initiatives in action: solar farms, reforestation projects, and clean water systems across Indian landscapes",
+        "search_keywords": [
+          "solar farms India",
+          "reforestation projects",
+          "clean water systems"
+        ]
+      },
+      {
+        "scene": "Demographic dividend",
+        "visual": "Young professionals in cities and rural areas contributing to the economy through innovation and entrepreneurship",
+        "search_keywords": [
+          "demographic dividend",
+          "youth entrepreneurship",
+          "economic growth"
+        ]
+      },
+      {
+        "scene": "Citizen-centric governance",
+        "visual": "Citizens interacting with digital government services via smartphones, showing seamless access to public services",
+        "search_keywords": [
+          "digital government services",
+          "citizen engagement",
+          "smart services"
+        ]
+      },
+      {
+        "scene": "Future vision",
+        "visual": "Aerial view of India's diverse landscapes with a subtle futuristic cityscape emerging in the distance, symbolizing the 2047 vision",
+        "search_keywords": [
+          "India 2047 vision",
+          "futuristic cityscape",
+          "sustainable development"
+        ]
+      }
+    ],
+    "topic": "",
+    "summary": "",
+    "key_ideas": [],
+    "facts": [],
+    "numbers": [],
+    "quotes": []
+  },
+  "storyboard": {
+    "hook": "This Changes Everything About India's Future.",
+    "insight": "India's AI talent is growing 3x faster than the global average, but 70% of startups fail due to poor data governance.",
+    "cta": "Join the 10,000+ founders who built AI-ready data systems in 90 days.",
+    "topic": "",
+    "summary": "",
+    "key_ideas": [],
+    "facts": [],
+    "numbers": [],
+    "quotes": []
+  },
+  "visual_plan": {
+    "topic": "",
+    "summary": "",
+    "key_ideas": [],
+    "facts": [],
+    "numbers": [],
+    "quotes": [],
+    "raw_output": "{\n  \"visual_plan\": [\n    {\n      \"scene\": 1,\n     \": 1,  # Scene number (starts at 1 for the first scene in the storyboard sequence) - this is the first scene of the storyboard, so it's scene 1. The storyboard has only one scene described here, so we'll generate one scene for it. The hook is the first thing that grabs attention, so this scene should be the hook itself. The hook is: \":\", \"",
+    "parse_error": true
+  },
+  "reel_score": {
+    "score": 95,
+    "grade": "A+"
+  }
+}

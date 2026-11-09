@@ -1,0 +1,258 @@
+{
+  "chunk_number": 5,
+  "hook": {
+    "hook": "This Changes Everything About India's Future.",
+    "pattern": "curiosity",
+    "strength": 70
+  },
+  "insight": {
+    "title": "India's Future Development and Economic Growth",
+    "overview": "India is projected to experience significant demographic and economic transformation by 2047, with a growing working-age population, increased GDP, and a shift towards sustainable development and global economic leadership.",
+    "key_ideas": [
+      "Population stabilization and transition from young to older demographic structure",
+      "Working-age population of 1.12 billion out of 1.65 billion",
+      "India's GDP projected to grow from 3.5 trillion to 30 trillion dollars by 2047",
+      "Per capita income projected at 18,000 dollars annually",
+      "India's economy will surpass the United States' current economy of 25 trillion dollars by 2047",
+      "90% of India's economic potential remains unrealized",
+      "Agriculture's share will decrease to 10% while services sector grows 10-fold",
+      "India aims to become a global food power and export leader",
+      "Demographic dividend timing and transition to a mature economy",
+      "Sustainable development and social harmony as key pillars of future growth"
+    ],
+    "key_insights": [
+      "India's demographic dividend provides a unique opportunity for economic growth but requires strategic investment in education and employment",
+      "The transition from a young to older population structure necessitates targeted policies to maximize economic potential",
+      "India's economic growth trajectory positions it as a potential global economic leader by 2047",
+      "Sustainable development and social equity are critical for long-term economic success",
+      "The 90% unrealized economic potential highlights the need for inclusive growth strategies"
+    ],
+    "important_numbers": [
+      "1.65 billion",
+      "1.12 billion",
+      "3.5 trillion",
+      "30 trillion",
+      "25 trillion",
+      "18,000",
+      "10%",
+      "90%",
+      "2047",
+      "3-4 years"
+    ],
+    "important_quotes": [
+      "India's economy will surpass America's current economy of 25 trillion dollars by 2047",
+      "90% of India's economic potential is yet to be realized",
+      "India can build green buildings and logistics in the next 25 years",
+      "Per capita income of 18,000 dollars indicates no common challenges"
+    ],
+    "learning_outcome": "Participants will understand India's projected economic trajectory, demographic shifts, and the strategic importance of sustainable development for achieving global economic leadership by 2047.",
+    "topic": "",
+    "summary": "",
+    "facts": [],
+    "numbers": [],
+    "quotes": []
+  },
+  "cta": {
+    "cta": "Share this post to spread awareness about India's economic potential and the 90% unrealized opportunity by 2047!",
+    "type": "share",
+    "topic": "",
+    "summary": "",
+    "key_ideas": [],
+    "facts": [],
+    "numbers": [],
+    "quotes": []
+  },
+  "thumbnail": {
+    "thumbnail_prompt": "Ultra-realistic cinematic documentary scene of a diverse Indian cityscape at golden hour, with a bustling market, modern skyscrapers, and a clear path leading to a futuristic sustainable city in the distance, dramatic lighting highlighting the contrast between traditional and modern elements, 4k detail, Netflix documentary style, vibrant colors, realistic textures, 2047 projection of India's economic growth, 1.12 billion working-age population, 30 trillion GDP, 90% unrealized economic potential, sustainable development, social harmony, global economic leadership",
+    "topic": "",
+    "summary": "",
+    "key_ideas": [],
+    "facts": [],
+    "numbers": [],
+    "quotes": []
+  },
+  "broll": {
+    "broll": [
+      {
+        "scene": "Demographic Shift",
+        "visual": "A dynamic split-screen showing a young Indian family in a bustling urban market (2020s) transitioning to a middle-aged family in a modern, sustainable home (2047) with green rooftops and solar panels",
+        "search_keywords": [
+          "demographic dividend",
+          "population transition",
+          "sustainable urban living"
+        ]
+      },
+      {
+        "scene": "Economic Growth Timeline",
+        "visual": "A sleek, animated timeline from 2024 to 2047 with key economic milestones: GDP growth from 3.5T to 30T, per capita income reaching $18,000, and India surpassing US economy (25T)",
+        "search_keywords": [
+          "GDP growth",
+          "per capita income",
+          "economic leadership"
+        ]
+      },
+      {
+        "scene": "Unrealized Potential",
+        "visual": "A 3D globe with India highlighted, showing 90% of economic potential as 'unrealized' with arrows pointing to areas of underinvestment in education, infrastructure, and green technology",
+        "search_keywords": [
+          "unrealized economic potential",
+          "inclusive growth",
+          "green infrastructure"
+        ]
+      },
+      {
+        "scene": "Sector Transformation",
+        "visual": "A side-by-side comparison: Agriculture (10% of GDP in 2047) vs. Services (10x growth) with animations showing farmers using drones and tech-enabled supply chains",
+        "search_keywords": [
+          "agriculture decline",
+          "services sector growth",
+          "tech in agriculture"
+        ]
+      },
+      {
+        "scene": "Global Leadership",
+        "visual": "A futuristic Indian cityscape with green buildings, electric vehicles, and a diverse group of professionals collaborating in a smart city hub, with a subtle '2047' timestamp",
+        "search_keywords": [
+          "global food power",
+          "sustainable development",
+          "economic leadership"
+        ]
+      }
+    ],
+    "topic": "",
+    "summary": "",
+    "key_ideas": [],
+    "facts": [],
+    "numbers": [],
+    "quotes": []
+  },
+  "storyboard": {
+    "scenes": [
+      {
+        "scene_no": 1,
+        "start": 0,
+        "end": 5,
+        "purpose": "Hook with bold statement",
+        "visual": "Close-up of a glowing 'This Changes Everything' text on a dark background with a subtle Indian flag pattern",
+        "voiceover": "This changes everything about India's future."
+      },
+      {
+        "scene_no": ": 5",
+        "start": 5,
+        "end": 10,
+        "purpose": "Show economic potential",
+        "visual": "Quick cuts: A young entrepreneur in a tech startup, a farmer using precision agriculture tools, a student studying in a well-lit classroom",
+        "voiceover": "India's economic potential is massive, but 90% of it remains unrealized."
+      },
+      {
+        "scene_no": 3,
+        "start": 10,
+        "end": 15,
+        "purpose": "Highlight opportunity",
+        "visual": "Animated graph showing India's GDP growth from 2023 to 2047 with a '90%' marker",
+        "voiceover": "By 2047, India could unlock a $10 trillion economy."
+      },
+      {
+        "scene_no": 4,
+        "start": 15,
+        "end": 20,
+        "purpose": "Show real-world impact",
+        "visual": "Split screen: Left side - a woman in a rural village using a mobile app for market prices; Right side - a tech innovator in a city lab",
+        "voiceover": "This isn't just numbers. It's real people, real opportunities."
+      },
+      {
+        "scene_no": 5,
+        "start": 20,
+        "end": 25,
+        "purpose": "Call to action",
+        "visual": "Hand sharing a smartphone with a friend, both looking at the screen with a smile",
+        "voiceover": "Share this post to spread awareness about India's economic potential."
+      },
+      {
+        "scene_no": 6,
+        "start": 25,
+        "end": 30,
+        "purpose": "Final CTA",
+        "visual": "Text overlay: '90% unrealized opportunity by 2047' with a subtle 'Share to spread awareness' button animation",
+        "voiceover": "Share this post to spread awareness about India's economic potential and the 90% unrealized opportunity by 2047!"
+      },
+      {
+        "scene_no": 7,
+        "start": 30,
+        "end": 35,
+        "purpose": "End screen",
+        "visual": "Indian flag with the text 'This Changes Everything' fading in",
+        "voiceover": ""
+      }
+    ],
+    "topic": "",
+    "summary": "",
+    "key_ideas": [],
+    "facts": [],
+    "numbers": [],
+    "quotes": []
+  },
+  "visual_plan": {
+    "visual_plan": [
+      {
+        "scene": 1,
+        "camera": "Extreme close-up on the text 'This Changes Everything' with slight zoom in to emphasize the glowing effect",
+        "transition": "Smooth fade from black to the text with subtle Indian flag pattern",
+        "motion": "Text pulses gently with a slow, rhythmic animation to draw attention",
+        "effects": "Glowing text with a soft, warm light gradient; subtle Indian flag pattern as a background texture"
+      },
+      {
+        "scene": 2,
+        "camera": "Quick cuts with rapid camera movements: Close-up on entrepreneur's hands typing, medium shot of farmer using tools, wide shot of student in classroom",
+        "transition": "Fast cut transitions with a quick zoom effect between scenes",
+        "motion": "Each scene has a slight shake to simulate the 'quick cuts' effect, with smooth transitions between shots",
+        "effects": "Digital glitch effects on the transitions to emphasize the rapidity of the cuts; subtle light reflections on the tools and classroom"
+      },
+      {
+        "scene": 3,
+        "camera": "Overhead shot of the animated graph with a focus on the GDP growth line",
+        "transition": "Smooth slide from the previous scene to the graph with a subtle data visualization effect",
+        "motion": "The graph line moves upward with a smooth animation, with the '90%' marker pulsing gently",
+        "effects": "Animated GDP growth chart with a futuristic design; the '90%' marker has a subtle pulse effect"
+      },
+      {
+        "scene": 4,
+        "camera": "Split screen with left side: Close-up on woman's face using mobile app; right side: Medium shot of tech innovator in lab",
+        "transition": "Split screen transition with a smooth horizontal slide between the two sides",
+        "motion": "Both sides have subtle movement to show the connection between the two scenes (e.g., app screen flickering, lab equipment moving)",
+        "effects": "Split screen with a soft, warm color grading; subtle motion blur on the app screen to show real-time interaction"
+      },
+      {
+        "scene": 5,
+        "camera": "Medium close-up on hands sharing a smartphone with a smile",
+        "transition": "Smooth transition from the previous scene with a subtle ripple effect",
+        "motion": "Hands move slowly to share the phone, with a gentle smile animation",
+        "effects": "Subtle light reflections on the smartphone screen; soft glow around the hands to emphasize the connection"
+      },
+      {
+        "scene": 6,
+        "camera": "Wide shot of the text overlay with a subtle button animation",
+        "transition": "Fade from the previous scene to the text overlay with a smooth slide-in effect",
+        "motion": "The 'Share to spread awareness' button pulses gently with a subtle animation",
+        "effects": "Text overlay with a soft, warm glow; button animation with a subtle hover effect"
+      },
+      {
+        "scene": 7,
+        "camera": "Wide shot of the Indian flag with the text fading in",
+        "transition": "Fade from the previous scene to the flag with a smooth transition",
+        "motion": "The flag slowly fades in with a gentle motion blur effect",
+        "effects": "Indian flag with a subtle glow effect; text 'This Changes Everything' fades in with a smooth animation"
+      }
+    ],
+    "topic": "",
+    "summary": "",
+    "key_ideas": [],
+    "facts": [],
+    "numbers": [],
+    "quotes": []
+  },
+  "reel_score": {
+    "score": 100,
+    "grade": "A+"
+  }
+}

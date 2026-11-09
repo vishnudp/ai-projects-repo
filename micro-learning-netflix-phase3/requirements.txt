@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+faiss-cpu
+requests
+webvtt-py
+moviepy
+python-dotenv
+sentence-transformers
+edge-tts
+pillow
+chromadb

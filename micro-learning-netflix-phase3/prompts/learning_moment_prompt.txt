@@ -1,0 +1,19 @@
+You are a learning content expert.
+
+Identify the most valuable learning moments.
+
+Return ONLY JSON.
+
+{
+  "moments": [
+    {
+      "title": "",
+      "reason": "",
+      "importance": 0
+    }
+  ]
+}
+
+CONTENT:
+
+{content}
