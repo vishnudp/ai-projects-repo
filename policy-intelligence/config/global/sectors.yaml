@@ -1,0 +1,512 @@
+taxonomy:
+  name: Global Policy Taxonomy
+  version: "1.0.0"
+
+  sectors:
+
+    # =====================================================
+    # GOVERNANCE
+    # =====================================================
+
+    - code: governance
+      name: Governance
+      parent: null
+      description: >
+        Public administration, institutional reform,
+        government effectiveness and public sector governance.
+
+    - code: public_administration
+      name: Public Administration
+      parent: governance
+      description: >
+        Public administration systems, civil services,
+        administrative reform and government operations.
+
+    - code: institutional_reform
+      name: Institutional Reform
+      parent: governance
+      description: >
+        Institutional strengthening, governance reform
+        and public sector transformation.
+
+    - code: public_policy
+      name: Public Policy
+      parent: governance
+      description: >
+        Policy development, implementation, evaluation
+        and evidence-based policymaking.
+
+
+    # =====================================================
+    # ECONOMY
+    # =====================================================
+
+    - code: economy
+      name: Economy
+      parent: null
+      description: >
+        Economic growth, macroeconomics, productivity,
+        markets and economic development.
+
+    - code: macroeconomics
+      name: Macroeconomics
+      parent: economy
+      description: >
+        Inflation, GDP, interest rates, monetary conditions
+        and macroeconomic stability.
+
+    - code: fiscal_policy
+      name: Fiscal Policy
+      parent: economy
+      description: >
+        Government spending, taxation, fiscal deficits
+        and public expenditure.
+
+    - code: economic_growth
+      name: Economic Growth
+      parent: economy
+      description: >
+        Economic development, productivity, competitiveness
+        and long-term growth.
+
+    - code: trade
+      name: Trade
+      parent: economy
+      description: >
+        International trade, exports, imports,
+        trade agreements and trade policy.
+
+
+    # =====================================================
+    # FINANCE
+    # =====================================================
+
+    - code: finance
+      name: Finance
+      parent: null
+      description: >
+        Financial systems, banking, markets and financial regulation.
+
+    - code: banking
+      name: Banking
+      parent: finance
+      description: >
+        Banking systems, lending, financial institutions
+        and banking regulation.
+
+    - code: financial_markets
+      name: Financial Markets
+      parent: finance
+      description: >
+        Capital markets, securities, investment
+        and financial market infrastructure.
+
+    - code: taxation
+      name: Taxation
+      parent: finance
+      description: >
+        Tax policy, tax administration and tax reform.
+
+
+    # =====================================================
+    # TECHNOLOGY
+    # =====================================================
+
+    - code: technology
+      name: Technology
+      parent: null
+      description: >
+        Technology policy, digital transformation,
+        emerging technologies and digital infrastructure.
+
+    - code: artificial_intelligence
+      name: Artificial Intelligence
+      parent: technology
+      description: >
+        AI policy, generative AI, AI governance,
+        AI safety and responsible AI.
+
+    - code: cybersecurity
+      name: Cybersecurity
+      parent: technology
+      description: >
+        Cybersecurity policy, cyber resilience,
+        cyber threats and critical infrastructure security.
+
+    - code: digital_transformation
+      name: Digital Transformation
+      parent: technology
+      description: >
+        Government digitization, digital services
+        and enterprise digital transformation.
+
+    - code: digital_public_infrastructure
+      name: Digital Public Infrastructure
+      parent: technology
+      description: >
+        Digital identity, digital payments, data exchanges
+        and public digital platforms.
+
+    - code: emerging_technology
+      name: Emerging Technology
+      parent: technology
+      description: >
+        Emerging technologies including quantum computing,
+        robotics, advanced computing and autonomous systems.
+
+
+    # =====================================================
+    # EDUCATION
+    # =====================================================
+
+    - code: education
+      name: Education
+      parent: null
+      description: >
+        Education systems, learning, skills and education policy.
+
+    - code: school_education
+      name: School Education
+      parent: education
+      description: >
+        Primary and secondary education systems.
+
+    - code: higher_education
+      name: Higher Education
+      parent: education
+      description: >
+        Universities, colleges and tertiary education.
+
+    - code: skills
+      name: Skills
+      parent: education
+      description: >
+        Vocational training, workforce skills
+        and professional development.
+
+
+    # =====================================================
+    # HEALTH
+    # =====================================================
+
+    - code: health
+      name: Health
+      parent: null
+      description: >
+        Healthcare systems, public health and health policy.
+
+    - code: public_health
+      name: Public Health
+      parent: health
+      description: >
+        Population health, disease prevention
+        and health promotion.
+
+    - code: healthcare_systems
+      name: Healthcare Systems
+      parent: health
+      description: >
+        Healthcare delivery, health infrastructure
+        and healthcare financing.
+
+
+    # =====================================================
+    # ENVIRONMENT
+    # =====================================================
+
+    - code: environment
+      name: Environment
+      parent: null
+      description: >
+        Environmental protection, sustainability
+        and climate policy.
+
+    - code: climate_change
+      name: Climate Change
+      parent: environment
+      description: >
+        Climate mitigation, adaptation
+        and climate resilience.
+
+    - code: biodiversity
+      name: Biodiversity
+      parent: environment
+      description: >
+        Biodiversity conservation and ecosystem protection.
+
+    - code: pollution
+      name: Pollution
+      parent: environment
+      description: >
+        Air, water, soil and industrial pollution.
+
+
+    # =====================================================
+    # ENERGY
+    # =====================================================
+
+    - code: energy
+      name: Energy
+      parent: null
+      description: >
+        Energy systems, energy security
+        and energy transition.
+
+    - code: renewable_energy
+      name: Renewable Energy
+      parent: energy
+      description: >
+        Solar, wind, hydro and other renewable energy sources.
+
+    - code: energy_transition
+      name: Energy Transition
+      parent: energy
+      description: >
+        Transition from fossil fuels toward
+        sustainable energy systems.
+
+    - code: energy_security
+      name: Energy Security
+      parent: energy
+      description: >
+        Energy supply security, strategic reserves
+        and energy resilience.
+
+
+    # =====================================================
+    # AGRICULTURE
+    # =====================================================
+
+    - code: agriculture
+      name: Agriculture
+      parent: null
+      description: >
+        Agriculture, food systems and rural livelihoods.
+
+    - code: food_security
+      name: Food Security
+      parent: agriculture
+      description: >
+        Food availability, accessibility
+        and food system resilience.
+
+    - code: agricultural_markets
+      name: Agricultural Markets
+      parent: agriculture
+      description: >
+        Agricultural trade, prices and market systems.
+
+
+    # =====================================================
+    # INFRASTRUCTURE
+    # =====================================================
+
+    - code: infrastructure
+      name: Infrastructure
+      parent: null
+      description: >
+        Physical infrastructure, transport,
+        logistics and connectivity.
+
+    - code: transportation
+      name: Transportation
+      parent: infrastructure
+      description: >
+        Roads, railways, aviation, shipping
+        and public transportation.
+
+    - code: logistics
+      name: Logistics
+      parent: infrastructure
+      description: >
+        Supply chains, logistics infrastructure
+        and freight systems.
+
+
+    # =====================================================
+    # SOCIAL DEVELOPMENT
+    # =====================================================
+
+    - code: social_development
+      name: Social Development
+      parent: null
+      description: >
+        Social protection, inclusion,
+        poverty reduction and human development.
+
+    - code: poverty
+      name: Poverty
+      parent: social_development
+      description: >
+        Poverty reduction and economic inclusion.
+
+    - code: social_protection
+      name: Social Protection
+      parent: social_development
+      description: >
+        Welfare systems, social insurance
+        and social safety nets.
+
+    - code: inequality
+      name: Inequality
+      parent: social_development
+      description: >
+        Income, wealth and social inequality.
+
+
+    # =====================================================
+    # INTERNATIONAL RELATIONS
+    # =====================================================
+
+    - code: international_relations
+      name: International Relations
+      parent: null
+      description: >
+        Diplomacy, geopolitical affairs,
+        international cooperation and multilateral relations.
+
+    - code: diplomacy
+      name: Diplomacy
+      parent: international_relations
+      description: >
+        Diplomatic relations and foreign policy.
+
+    - code: international_cooperation
+      name: International Cooperation
+      parent: international_relations
+      description: >
+        Multilateral cooperation and international development.
+
+
+    # =====================================================
+    # DEFENCE
+    # =====================================================
+
+    - code: defence
+      name: Defence
+      parent: null
+      description: >
+        Defence, national security and strategic affairs.
+
+    - code: national_security
+      name: National Security
+      parent: defence
+      description: >
+        National security policy and strategic security.
+
+    - code: defence_technology
+      name: Defence Technology
+      parent: defence
+      description: >
+        Military technology, defence innovation
+        and advanced defence systems.
+
+
+    # =====================================================
+    # SCIENCE
+    # =====================================================
+
+    - code: science
+      name: Science
+      parent: null
+      description: >
+        Scientific research, innovation
+        and research policy.
+
+    - code: scientific_research
+      name: Scientific Research
+      parent: science
+      description: >
+        Scientific research institutions,
+        research programs and scientific policy.
+
+    - code: biotechnology
+      name: Biotechnology
+      parent: science
+      description: >
+        Biotechnology research, applications
+        and biotechnology policy.
+
+    - code: space
+      name: Space
+      parent: science
+      description: >
+        Space exploration, space technology
+        and space policy.
+
+
+    # =====================================================
+    # LABOUR
+    # =====================================================
+
+    - code: labour
+      name: Labour
+      parent: null
+      description: >
+        Employment, labour markets
+        and workforce policy.
+
+    - code: employment
+      name: Employment
+      parent: labour
+      description: >
+        Employment policy, job creation
+        and labour market participation.
+
+    - code: workforce
+      name: Workforce
+      parent: labour
+      description: >
+        Workforce development and labour supply.
+
+
+    # =====================================================
+    # URBAN DEVELOPMENT
+    # =====================================================
+
+    - code: urban_development
+      name: Urban Development
+      parent: null
+      description: >
+        Urban planning, cities
+        and municipal development.
+
+    - code: urban_planning
+      name: Urban Planning
+      parent: urban_development
+      description: >
+        Urban planning, land use
+        and city development.
+
+    - code: urban_mobility
+      name: Urban Mobility
+      parent: urban_development
+      description: >
+        Public transport, mobility
+        and urban transportation.
+
+
+    # =====================================================
+    # RURAL DEVELOPMENT
+    # =====================================================
+
+    - code: rural_development
+      name: Rural Development
+      parent: null
+      description: >
+        Rural livelihoods, rural infrastructure
+        and rural public services.
+
+    - code: rural_livelihoods
+      name: Rural Livelihoods
+      parent: rural_development
+      description: >
+        Rural employment, livelihoods
+        and income generation.
+
+    - code: rural_infrastructure
+      name: Rural Infrastructure
+      parent: rural_development
+      description: >
+        Rural roads, connectivity,
+        utilities and public infrastructure.

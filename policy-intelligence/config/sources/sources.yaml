@@ -1,0 +1,193 @@
+# country_scope and sector_scope describe the potential
+# coverage of the source for collection/discovery.
+#
+# They do NOT classify individual documents.
+# Document-level country, sector, policy domain, topic,
+# and relevance are determined after document collection.
+
+registry:
+  name: Global Policy Source Registry
+  version: "1.0.0"
+
+  sources:
+
+    - source_id: world_bank
+      name: World Bank
+      organization: World Bank
+
+      source_type: international_organization
+
+      country_scope:
+        - GLOBAL
+
+      sector_scope:
+        - GLOBAL
+
+      collection:
+        method: web
+        base_url: https://www.worldbank.org
+        rss_url: null
+        api_url: null
+
+      language:
+        - en
+
+      publication_frequency: continuous
+
+      reliability:
+        tier: 1
+        score: 0.98
+
+      enabled: true
+
+    - source_id: oecd
+      name: OECD
+      organization: Organisation for Economic Co-operation and Development
+
+      source_type: international_organization
+
+      country_scope:
+        - GLOBAL
+
+      sector_scope:
+        - GLOBAL
+
+      collection:
+              collection:
+              method: sdmx
+              base_url: https://www.oecd.org
+              sdmx_discovery_url: https://sdmx.oecd.org/public/rest/dataflow/all
+              rss_url: null
+              api_url: null
+              timeout: 15
+
+              dataflow_filter:
+                min_score: 0.20
+                max_candidates: 120
+
+                sectors:
+
+                  artificial_intelligence:
+                    - artificial intelligence
+                    - ai
+                    - machine learning
+                    - generative ai
+                    - digital technology
+
+                  renewable_energy:
+                    - renewable energy
+                    - clean energy
+                    - solar energy
+                    - wind energy
+                    - energy transition
+
+                keywords:
+                  - climate
+                  - emissions
+                  - energy
+                  - environment
+                  - sustainability
+                  - innovation
+                  - productivity
+                  - labour
+                  - health
+                  - education
+
+      language:
+        - en
+
+      publication_frequency: continuous
+
+      reliability:
+        tier: 1
+        score: 0.98
+
+      enabled: true
+
+    - source_id: imf
+      name: IMF
+      organization: International Monetary Fund
+
+      source_type: international_organization
+
+      country_scope:
+        - GLOBAL
+
+      sector_scope:
+        - GLOBAL
+
+      collection:
+        method: sdmx
+        base_url: https://sdmxcentral.imf.org
+        sdmx_discovery_url: https://sdmxcentral.imf.org/sdmx/v2/dataflow/IMF/all/latest?references=all
+        rss_url: null
+        api_url: null
+
+      language:
+        - en
+
+      publication_frequency: continuous
+
+      reliability:
+        tier: 1
+        score: 0.98
+
+      enabled: false
+    
+    - source_id: who
+      name: WHO
+      organization: World Health Organization
+
+      source_type: international_organization
+
+      country_scope:
+        - GLOBAL
+
+      sector_scope:
+        - GLOBAL
+
+      collection:
+        method: web
+        base_url: https://www.who.int
+        rss_url: null
+        api_url: null
+
+      language:
+        - en
+
+      publication_frequency: continuous
+
+      reliability:
+        tier: 1
+        score: 0.98
+
+      enabled: true
+
+    - source_id: undp
+      name: UNDP
+      organization: United Nations Development Programme
+
+      source_type: international_organization
+
+      country_scope:
+        - GLOBAL
+
+      sector_scope:
+        - GLOBAL
+
+      collection:
+        method: web
+        base_url: https://www.undp.org
+        rss_url: null
+        api_url: null
+
+      language:
+        - en
+
+      publication_frequency: continuous
+
+      reliability:
+        tier: 1
+        score: 0.97
+
+      enabled: false

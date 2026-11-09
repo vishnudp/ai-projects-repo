@@ -1,0 +1,69 @@
+sectors:
+
+  - code: governance
+    name: Governance
+    description: Public administration, institutional reform, public sector governance, and government effectiveness.
+
+  - code: economy
+    name: Economy
+    description: Economic growth, macroeconomics, fiscal policy, trade, productivity, and economic development.
+
+  - code: finance
+    name: Finance
+    description: Banking, financial markets, monetary policy, financial regulation, taxation, and public finance.
+
+  - code: education
+    name: Education
+    description: School education, higher education, vocational education, skills, learning, and education policy.
+
+  - code: health
+    name: Health
+    description: Public health, healthcare systems, disease prevention, health policy, and healthcare delivery.
+
+  - code: technology
+    name: Technology
+    description: Digital transformation, artificial intelligence, emerging technologies, digital public infrastructure, and technology policy.
+
+  - code: environment
+    name: Environment
+    description: Environmental protection, climate change, biodiversity, pollution, sustainability, and environmental policy.
+
+  - code: agriculture
+    name: Agriculture
+    description: Agriculture, food systems, rural development, farming, agricultural markets, and food security.
+
+  - code: energy
+    name: Energy
+    description: Energy policy, renewable energy, electricity, oil and gas, energy transition, and energy security.
+
+  - code: infrastructure
+    name: Infrastructure
+    description: Transport, urban infrastructure, housing, logistics, connectivity, and public infrastructure.
+
+  - code: social_development
+    name: Social Development
+    description: Poverty reduction, social protection, inclusion, welfare, inequality, and human development.
+
+  - code: international_relations
+    name: International Relations
+    description: Diplomacy, international cooperation, geopolitical affairs, treaties, and multilateral relations.
+
+  - code: defence
+    name: Defence
+    description: National security, defence policy, military affairs, strategic security, and defence technology.
+
+  - code: science
+    name: Science
+    description: Scientific research, innovation, research policy, biotechnology, space, and scientific institutions.
+
+  - code: labour
+    name: Labour
+    description: Employment, workforce policy, labour markets, worker protection, migration, and workplace policy.
+
+  - code: urban_development
+    name: Urban Development
+    description: Cities, urban planning, municipal governance, smart cities, urban mobility, and urban services.
+
+  - code: rural_development
+    name: Rural Development
+    description: Rural livelihoods, rural infrastructure, village development, and rural public services.

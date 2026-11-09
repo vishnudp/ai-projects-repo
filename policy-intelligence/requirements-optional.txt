@@ -1,0 +1,7 @@
+# Future / optional infrastructure
+
+psycopg[binary]
+pgvector
+redis
+alembic
+apscheduler

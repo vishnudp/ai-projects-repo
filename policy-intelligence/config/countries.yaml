@@ -1,0 +1,43 @@
+countries:
+
+  - code: IN
+    name: India
+    region: South Asia
+    default_language: en
+    enabled: true
+
+  - code: US
+    name: United States
+    region: North America
+    default_language: en
+    enabled: true
+
+  - code: UK
+    name: United Kingdom
+    region: Europe
+    default_language: en
+    enabled: true
+
+  - code: SG
+    name: Singapore
+    region: Southeast Asia
+    default_language: en
+    enabled: true
+
+  - code: AU
+    name: Australia
+    region: Oceania
+    default_language: en
+    enabled: true
+
+  - code: EU
+    name: European Union
+    region: Europe
+    default_language: en
+    enabled: true
+
+  - code: GLOBAL
+    name: Global
+    region: Global
+    default_language: en
+    enabled: true
